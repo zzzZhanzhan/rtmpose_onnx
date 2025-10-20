@@ -46,7 +46,7 @@ python tools/deploy.py \
     --dump-info  # dump sdk info
 ```
 
-MMPose and MMDeploy installation, as well as other detailed information, can be referred to `mmpose/projects.rtmpose/README.md` : https://github.com/open-mmlab/mmpose/blob/main/projects/rtmpose/README.md
+MMPose and MMDeploy installation, as well as other detailed information, can be referred to `mmpose/projects.rtmpose/README.md` at https://github.com/open-mmlab/mmpose/blob/main/projects/rtmpose/README.md
 
 
 
