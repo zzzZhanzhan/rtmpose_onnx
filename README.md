@@ -57,7 +57,7 @@ You can run the following command.
 
 ```cmake
 # Compile and Build C++Projects
-cd rtmpose_onnx
+cd rtmpose_onnx-main
 mkdir build
 cd build && cmake ..
 make
