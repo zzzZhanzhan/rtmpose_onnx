@@ -1,0 +1,7 @@
+
+
+# 忽略 Dockerfile 本身和 .dockerignore 文件
+Dockerfile
+.dockerignore
+
+
