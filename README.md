@@ -4,7 +4,6 @@
 
 RTMPose_ONNX converts pre-trained RTMPose and RTMDet models into ONNX models and deploys them using C++.
 
-<img src="C:\Users\ZhanJN\AppData\Roaming\Typora\typora-user-images\image-20251020135653881.png" alt="image-20251020135653881" style="zoom:80%;" />
 
 #### Requirement
 
