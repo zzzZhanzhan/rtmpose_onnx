@@ -11,7 +11,7 @@ RTMPose_ONNX converts pre-trained RTMPose and RTMDet models into ONNX models and
 - [ONNX Runtime](https://github.com/microsoft/onnxruntime)
 - [OpenCV](https://github.com/opencv/opencv)
 
-This project uses cuda，onnxrnuntime-linux-x64-gpu-1.18.1 and opencv-4.10.0. The compatibility between ONNX Runtime and CUDA at https://onnxruntime.ai/docs/execution-providers/CUDA-ExecutionProvider.html#requirements.
+This project uses cuda，onnxruntime-linux-x64-gpu-1.18.1 and opencv-4.10.0. The compatibility between ONNX Runtime and CUDA at https://onnxruntime.ai/docs/execution-providers/CUDA-ExecutionProvider.html#requirements.
 
 
 
